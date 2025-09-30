@@ -28,8 +28,10 @@ Live Demos
 
 Both deployments are live and serve the identical "TechSolutions" website:
 
-- 🔧 EC2 & Ansible Deployment: [http://TechSolutions-ALB-1898000649.eu-west-1.elb.amazonaws.com](http://TechSolutions-ALB-1898000649.eu-west-1.elb.amazonaws.com)
-- ☁️ S3 Static Hosting Deployment: [http://techsolutions-s3-bucket.s3-website-eu-west-1.amazonaws.com](http://techsolutions-s3-bucket.s3-website-eu-west-1.amazonaws.com) *(Note: URL may vary slightly)*
+- 🔧 EC2 & Ansible Deployment:
+[http://TechSolutions-ALB-1898000649.eu-west-1.elb.amazonaws.com](http://TechSolutions-ALB-1898000649.eu-west-1.elb.amazonaws.com)
+- ☁️ S3 Static Hosting Deployment:
+[http://techsolutions-s3-bucket.s3-website-eu-west-1.amazonaws.com](http://techsolutions-s3-bucket.s3-website-eu-west-1.amazonaws.com) *(Note: URL may vary slightly)*
 
 ## Deployment Comparison
 
@@ -43,7 +45,8 @@ Both deployments are live and serve the identical "TechSolutions" website:
 
 Purpose
 
-This project was designed to compare and contrast two fundamental hosting patterns on AWS, highlighting the trade-offs between control/ flexibility (EC2) and simplicity/cost (S3).
+This project was designed to compare and contrast two fundamental hosting patterns on AWS
+ highlighting the trade-offs between control/ flexibility (EC2) and simplicity/cost (S3).
 
 ---
 ```
