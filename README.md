@@ -14,9 +14,9 @@ Method 1: ALB & EC2 with Ansible
 - Endpoint: `http://TechSolutions-ALB-1898000649.eu-west-1.elb.amazonaws.com`
 
 Method 2: S3 Static Website Hosting
-- **Amazon S3 Bucket:** `techsolutions-s3-bucket` stores the `index.html` file.
-- **S3 Website Hosting:** The bucket is configured for static website hosting with a public read policy.
-- **Endpoint:** `http://techsolutions-s3-bucket.s3-website-eu-west-1.amazonaws.com`
+- Amazon S3  Bucket: `techsolutions-s3-bucket` stores the `index.html` file.
+- S3 Website Hosting: The bucket is configured for static website hosting with a public read policy.
+- Endpoint:  `http://techsolutions-s3-bucket.s3-website-eu-west-1.amazonaws.com`
 
 Project Files
 
